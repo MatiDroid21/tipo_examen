@@ -1,0 +1,107 @@
+[
+    {
+        "nombre": "Caf\u00e9 Americano",
+        "valor_bruto": 3500,
+        "utilidad": 1400,
+        "iva": 665,
+        "valor_venta": 5565
+    },
+    {
+        "nombre": "T\u00e9 Chai",
+        "valor_bruto": 5800,
+        "utilidad": 2320,
+        "iva": 1102,
+        "valor_venta": 9222
+    },
+    {
+        "nombre": "Croissant",
+        "valor_bruto": 4800,
+        "utilidad": 1920,
+        "iva": 912,
+        "valor_venta": 7632
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "valor_bruto": 4600,
+        "utilidad": 1840,
+        "iva": 874,
+        "valor_venta": 7314
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor_bruto": 7000,
+        "utilidad": 2800,
+        "iva": 1330,
+        "valor_venta": 11130
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor_bruto": 7100,
+        "utilidad": 2840,
+        "iva": 1349,
+        "valor_venta": 11289
+    },
+    {
+        "nombre": "Espresso Doble",
+        "valor_bruto": 5300,
+        "utilidad": 2120,
+        "iva": 1007,
+        "valor_venta": 8427
+    },
+    {
+        "nombre": "Batido de Frutas",
+        "valor_bruto": 4100,
+        "utilidad": 1640,
+        "iva": 779,
+        "valor_venta": 6519
+    },
+    {
+        "nombre": "Muffin",
+        "valor_bruto": 6500,
+        "utilidad": 2600,
+        "iva": 1235,
+        "valor_venta": 10335
+    },
+    {
+        "nombre": "Ensalada",
+        "valor_bruto": 6000,
+        "utilidad": 2400,
+        "iva": 1140,
+        "valor_venta": 9540
+    },
+    {
+        "nombre": "Chocolate Caliente",
+        "valor_bruto": 7700,
+        "utilidad": 3080,
+        "iva": 1463,
+        "valor_venta": 12243
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "valor_bruto": 5100,
+        "utilidad": 2040,
+        "iva": 969,
+        "valor_venta": 8109
+    },
+    {
+        "nombre": "S\u00e1ndwich de Huevo",
+        "valor_bruto": 4800,
+        "utilidad": 1920,
+        "iva": 912,
+        "valor_venta": 7632
+    },
+    {
+        "nombre": "Galletas de Avena",
+        "valor_bruto": 4000,
+        "utilidad": 1600,
+        "iva": 760,
+        "valor_venta": 6360
+    },
+    {
+        "nombre": "Frapp\u00e9 de Caramelo",
+        "valor_bruto": 6900,
+        "utilidad": 2760,
+        "iva": 1311,
+        "valor_venta": 10971
+    }
+]
